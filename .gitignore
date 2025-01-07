@@ -1,7 +1,6 @@
-inference
-data
-models
-runs
-models
+inference/
+models/
+runs/
+models/
 result.jpg
-instanceenv
+instanceenv/
