@@ -5,3 +5,4 @@ models/
 result.jpg
 instanceenv/
 data/
+rtdetr-l.pt
