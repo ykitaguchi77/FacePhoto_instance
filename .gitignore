@@ -6,3 +6,6 @@ result.jpg
 instanceenv/
 data/
 rtdetr-l.pt
+yolo11n.pt
+YOLO11/yolo11l/labels_correlogram.jpg
+YOLO11/yolo11l/labels.jpg
